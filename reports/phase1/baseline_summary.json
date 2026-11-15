@@ -1,0 +1,11 @@
+{
+  "best_model": "RandomForest",
+  "val_macro_f1": 0.9902,
+  "val_accuracy": 0.9905,
+  "test_accuracy_no_hand_excluded": 0.9913,
+  "test_macro_f1_no_hand_excluded": 0.9911,
+  "test_accuracy_no_hand_wrong": 0.9013,
+  "test_n_excluded": 3695,
+  "test_n_all": 4074,
+  "no_hand_test": 379
+}

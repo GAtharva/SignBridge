@@ -1,0 +1,16 @@
+{
+  "val_accuracy": 0.9942146369684698,
+  "val_macro_f1": 0.9941275461337657,
+  "val_accuracy_no_hand_wrong": 0.8945332645693657,
+  "val_macro_f1_no_hand_wrong": 0.9128372086884369,
+  "test_accuracy": 0.9935047361299053,
+  "test_macro_f1": 0.9933172617822965,
+  "test_accuracy_no_hand_wrong": 0.9042709867452136,
+  "test_macro_f1_no_hand_wrong": 0.9240844334934495,
+  "test_mirrored_accuracy": 0.9937753721244925,
+  "test_mirrored_macro_f1": 0.9936012149638813,
+  "ary_holdout_accuracy": 0.9853658536585366,
+  "ary_holdout_macro_f1": 0.3823029313745494,
+  "numeric_to_non_numeric_accuracy": 0.8282828282828283,
+  "runtime_sec": 118.29352521896362
+}
